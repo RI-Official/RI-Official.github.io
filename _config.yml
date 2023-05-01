@@ -15,8 +15,8 @@
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" , "diffault"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "일 알리미"
+locale                   : "제주도"
+title                    : "RI-LAB"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "RI-Official"
@@ -107,7 +107,7 @@ author:
   name             : "RI-Official"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**RI**"
-  location         : "Somewhere"
+  location         : "제주대학교"
   email            :
   links:
     - label: "Email"
